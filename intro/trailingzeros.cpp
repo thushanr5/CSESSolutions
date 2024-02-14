@@ -2,6 +2,11 @@
 using namespace std;
 
 
+/*
+    Valid solution however, very slow for computing 
+*/
+
+
 int solve(){
     int n;
     cin >> n;
